@@ -7,7 +7,7 @@
   "engines": {
     "vscode": "^1.80.0"
   },
-   "publisher": "your-publisher",
+  "publisher": "khoirul mustofa",
   "repository": {
     "type": "git",
     "url": "https://github.com/khoirul-mustofa/flutter-bloc-generate-feature.git"

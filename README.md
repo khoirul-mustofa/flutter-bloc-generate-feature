@@ -16,4 +16,12 @@ Capek bikin folder BLoC satu-satu? Nah, ekstensi ini bakal jadi teman baikmu bua
 4.  Kasih nama buat fiturmu pake format `snake_case` ya (contoh: `detail_produk`).
 5.  Tekan Enter... dan sulaaap! Semua folder dan file buat fitur barumu udah jadi.
 
+## Contoh
+
 ![Contoh Penggunaan Ekstensi](images/1.png)
+
+
+![Contoh Penggunaan Ekstensi](images/2.png)
+
+
+![Contoh Penggunaan Ekstensi](images/3.png)
